@@ -48,3 +48,19 @@ graph TD;
     E -->|Retrieve Top-k Context| G[Relevant Chunks];
     G -->|Context + Query| H[Gemini 1.5 Flash];
     H -->|Generate Response| I[Final Answer];
+```
+---
+
+
+## 📸 Screenshot
+
+### The Interface
+
+
+![App Interface](https://github.com/user-attachments/assets/cf5f078f-c728-40f4-90a9-dfe860ed81f1)
+
+> *Example: The user uploads a resume, and the AI extracts key skills and answers questions based on the document context.*
+
+
+
+

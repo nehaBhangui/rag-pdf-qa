@@ -1,0 +1,6 @@
+pypdf
+chromadb
+langchain-community
+google-generativeai
+google-genai
+gradio
